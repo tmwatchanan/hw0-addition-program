@@ -1,4 +1,4 @@
-# Homework 0: Add Program
+# Homework 0: Addition Program
 > *CAUTION*: Please do NOT edit any file not related to your program. (e.g., .gitginore, README.md)
 
 ---
